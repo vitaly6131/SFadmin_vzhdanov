@@ -3,3 +3,5 @@
 **/nginx/
 *.yml
 !add_user.yml
+Readme
+test
