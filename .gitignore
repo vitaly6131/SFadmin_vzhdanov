@@ -1,3 +1,4 @@
 **/ansible-all/playbooks/add_user.yml
 **/nginx/
 hosts
+**/ansible-all/common/files/id_rsa.pub
