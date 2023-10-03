@@ -1,1 +1,3 @@
 **/ansible-all/playbooks/add_user.yml
+**/nginx/
+hosts
