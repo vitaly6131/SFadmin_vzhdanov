@@ -1,3 +1,5 @@
 /ansible-all/hosts
 /ansible-all/common/files/id_rsa.pub
 /nginx/
+*.yml
+!add_user.yml
